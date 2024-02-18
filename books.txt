@@ -1,0 +1,7 @@
+psikolojide tipler,carl jung,1932,672,pinhan,4
+palto,gogol,1856,324,can,4
+korkuyu beklerken,oguz atay,1994,342,metis,4
+batan gunes,dazai,1832,432,can,4
+atomic habits,james clear,2018,352,pegasus,8
+insanciklar,fyodor dostoyevski,1846,184,can,5
+satranc,stefan zweig,1943,71,yky,7
